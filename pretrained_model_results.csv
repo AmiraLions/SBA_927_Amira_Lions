@@ -1,0 +1,14 @@
+
+Text_Number,Model,Sentiment,Confidence
+1,DistilBERT_SST2,Negative,0.9998
+2,DistilBERT_SST2,Positive,0.9687
+3,DistilBERT_SST2,Positive,0.9799
+4,DistilBERT_SST2,Positive,0.9973
+5,DistilBERT_SST2,Positive,0.9098
+6,DistilBERT_SST2,Positive,0.9997
+7,DistilBERT_SST2,Negative,0.9996
+8,DistilBERT_SST2,Positive,0.8626
+9,DistilBERT_SST2,Positive,0.9986
+10,DistilBERT_SST2,Positive,0.9813
+11,DistilBERT_SST2,Positive,0.9983
+12,DistilBERT_SST2,Negative,0.9907

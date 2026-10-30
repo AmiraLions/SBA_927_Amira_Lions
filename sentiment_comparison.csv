@@ -1,0 +1,14 @@
+
+Text_Number,VADER_Sentiment,VADER_Compound,ChatGPT_GPT6_Sentiment,Agreement
+1,Neutral,0.0000,Negative,No
+2,Negative,-0.8847,Negative,Yes
+3,Positive,0.5423,Neutral,No
+4,Neutral,0.0000,Neutral,Yes
+5,Positive,0.4228,Negative,No
+6,Positive,0.7650,Positive,Yes
+7,Neutral,0.0000,Neutral,Yes
+8,Negative,-0.2960,Negative,Yes
+9,Positive,0.2960,Neutral,No
+10,Positive,0.6162,Negative,No
+11,Positive,0.3612,Neutral,No
+12,Positive,0.4019,Neutral,No
